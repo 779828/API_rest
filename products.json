@@ -6,6 +6,24 @@
         "company": "apple"
     },
     {
+        "name": "iphone",
+        "price": 154,
+        "feature": false,
+        "company": "apple"
+    },
+    {
+        "name": "iphone",
+        "price": 154,
+        "feature": false,
+        "company": "apple"
+    },
+    {
+        "name": "iphone",
+        "price": 154,
+        "feature": false,
+        "company": "apple"
+    },
+    {
         "name": "iphone10",
         "price": 1154,
         "feature": true,
@@ -25,6 +43,16 @@
         "name": "s20",
         "price": 404,
         "company": "samsung"
+    },
+    {
+        "name": "dell gaming",
+        "price": 501,
+        "company": "dell"
+    },
+    {
+        "name": "dell gaming",
+        "price": 501,
+        "company": "dell"
     },
     {
         "name": "dell gaming",
