@@ -1,82 +1,242 @@
 [
     {
-        "name": "iphone",
-        "price": 154,
-        "feature": false,
-        "company": "apple"
-    },
-    {
-        "name": "iphone",
-        "price": 154,
-        "feature": false,
-        "company": "apple"
-    },
-    {
-        "name": "iphone",
-        "price": 154,
-        "feature": false,
-        "company": "apple"
-    },
-    {
-        "name": "iphone",
-        "price": 154,
-        "feature": false,
-        "company": "apple"
-    },
-    {
-        "name": "iphone10",
-        "price": 1154,
+        "name": "HTC",
+        "price": 21,
         "feature": true,
+        "rating": 6,
+        "createdAt":"2/20/2024",
         "company": "apple"
     },
     {
-        "name": "watch",
-        "price": 204,
-        "company": "apple"
+        "name": "Lenovo A7-50 A3500",
+        "price": 24,
+        "feature": false,
+        "rating": 5,
+        "createdAt":"8/23/2024",
+        "company": "Lenovo"
     },
     {
-        "name": "watch10",
-        "price": 304,
-        "company": "apple"
+        "name": "HTC S310",
+        "price": 83,
+        "feature": true,
+        "rating": 1,
+        "createdAt":"5/01/2024",
+        "company": "HTC"
     },
     {
-        "name": "s20",
-        "price": 404,
-        "company": "samsung"
+        "name": "O2 Jet",
+        "price": 66,
+        "feature": true,
+        "rating": 10,
+        "createdAt":"6/19/2024",
+        "company": "O2"
     },
     {
-        "name": "dell gaming",
-        "price": 501,
-        "company": "dell"
+        "name": "Motorola EX201",
+        "price": 24,
+        "feature": true,
+        "rating": 1,
+        "createdAt":"11/5/2023",
+        "company": "Motorola"
     },
     {
-        "name": "dell gaming",
-        "price": 501,
-        "company": "dell"
+        "name": "Sagem my500X",
+        "price": 73,
+        "feature": true,
+        "rating": 3,
+        "createdAt":"9/4/2024",
+        "company": "Sagem"
     },
     {
-        "name": "dell gaming",
-        "price": 501,
-        "company": "dell"
+        "name": "Haier Z3000",
+        "price": 89,
+        "feature": false,
+        "rating": 4,
+        "createdAt":"8/20/2024",
+        "company": "Haier"
     },
     {
-        "name": "mi20",
-        "price": 701,
-        "company": "mi"
+        "name": "Sony Ericsson Xperia neo V",
+        "price": 29,
+        "feature": true,
+        "rating": 2,
+        "createdAt":"6/14/2024",
+        "company": "Sony"
     },
     {
-        "name": "mi20",
-        "price": 701,
-        "company": "mi"
+        "name": "Gigabyte GSmart i (128)",
+        "price": 38,
+        "feature": false,
+        "rating": 8,
+        "createdAt":"8/23/2024",
+        "company": "Gigabyte"
     },
     {
-        "name": "mi20",
-        "price": 701,
-        "company": "mi"
+        "name": "Huawei P9 Plus",
+        "price": 65,
+        "feature": false,
+        "rating": 2,
+        "createdAt":"5/17/2024",
+        "company": "Huawei"
     },
     {
-        "name": "mi20",
-        "price": 701,
-        "company": "mi"
+        "name": "vivo iQOO Neo",
+        "price": 80,
+        "feature": true,
+        "rating": 2,
+        "createdAt":"9/13/2024",
+        "company": "vivo"
+    },
+    {
+        "name": "Archos 45 Platinum",
+        "price": 34,
+        "feature": false,
+        "rating": 6,
+        "createdAt":"9/24/2024",
+        "company": "Archos"
+    },
+    {
+        "name": "ZTE Open L",
+        "price": 48,
+        "feature": false,
+        "rating": 8,
+        "createdAt":"3/21/2024",
+        "company": "ZTE"
+    },
+    {
+        "name": "Allview Wi7",
+        "price": 6,
+        "feature": false,
+        "rating": 3,
+        "createdAt":"1/2/2024",
+        "company": "Allview"
+    },
+    {
+        "name": "alcatel OT-S215A",
+        "price": 64,
+        "feature": true,
+        "rating": 2,
+        "createdAt":"6/14/2024",
+        "company": "alcatel"
+    },
+    {
+        "name": "Nokia 6700 classic",
+        "price": 89,
+        "feature": true,
+        "rating": 6,
+        "createdAt":"5/30/2024",
+        "company": "Nokia"
+    },
+    {
+        "name": "HTC S630",
+        "price": 27,
+        "feature": true,
+        "rating": 3,
+        "createdAt":"12/16/2023",
+        "company": "HTC"
+    },
+    {
+        "name": "Xiaomi Redmi 3s",
+        "price": 64,
+        "feature": false,
+        "rating": 1,
+        "createdAt":"11/26/2023",
+        "company": "Xiaomi"
+    },
+    {
+        "name": "Nokia 6110",
+        "price": 26,
+        "feature": true,
+        "rating": 8,
+        "createdAt":"2/28/2024",
+        "company": "Nokia"
+    },
+    {
+        "name": "Honor 9 Lite",
+        "price": 60,
+        "feature": false,
+        "rating": 8,
+        "createdAt":"9/22/2024",
+        "company": "Honor"
+    },
+    {
+        "name": "Nokia Asha 310",
+        "price": 82,
+        "feature": true,
+        "rating": 7,
+        "createdAt":"6/28/2024",
+        "company": "Nokia"
+    },
+    {
+        "name": "Yezz Andy A6M",
+        "price": 82,
+        "feature": true,
+        "rating": 4,
+        "createdAt":"10/25/2024",
+        "company": "Yezz"
+    },
+    {
+        "name": "BLU EZ2Go",
+        "price": 60,
+        "feature": false,
+        "rating": 2,
+        "createdAt":"6/9/2024",
+        "company": "BLU"
+    },
+    {
+        "name": "Vodafone Smart 4 max",
+        "price": 34,
+        "feature": true,
+        "rating": 4,
+        "createdAt":"6/15/2024",
+        "company": "Vodafone"
+    },
+    {
+        "name": "Xiaomi Redmi Note 8",
+        "price": 96,
+        "feature": false,
+        "rating": 2,
+        "createdAt":"5/12/2024",
+        "company": "Xiaomi"
+    },
+    {
+        "name": "alcatel OT 757",
+        "price": 95,
+        "feature": false,
+        "rating": 2,
+        "createdAt":"2/20/2024",
+        "company": "alcatel"
+    },
+    {
+        "name": "ZTE Axon 9 Pro",
+        "price": 74,
+        "feature": true,
+        "rating": 3,
+        "createdAt":"2/6/2024",
+        "company": "ZTE"
+    },
+    {
+        "name": "Vodafone Smart N8",
+        "price": 93,
+        "feature": false,
+        "rating": 5,
+        "createdAt":"1/28/2024",
+        "company": "Vodafone"
+    },
+    {
+        "name": "LG G5 SE",
+        "price": 100,
+        "feature": true,
+        "rating": 3,
+        "createdAt":"8/5/2024",
+        "company": "LG"
+    },
+    {
+        "name": "vivo Y91",
+        "price": 97,
+        "feature": false,
+        "rating": 9,
+        "createdAt":"7/28/2024",
+        "company": "Philips"
     }
 ]
